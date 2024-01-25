@@ -9,6 +9,10 @@ h1 {
     background-image: url('../images/pattern.jpg');
 }
 
+h1,h2,h3,p{
+  font-family: Helvetica, sans-serif;
+}
+
 /* Style rules for the Brush content */
 #brushes {
     background-color: mediumspringgreen;
@@ -29,9 +33,12 @@ h1 {
 
 /* Sub header style rule */
 h2 {
-    font-family: Helvectica;
     font-size: 32px;
     font-weight: bold;
+}
+
+h3 {
+    text-align: left;
 }
 
 /* Style for the  price */
