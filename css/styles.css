@@ -1,3 +1,5 @@
+/* Style rules for the header */
+
 h1 {
     font-family: Helvetica;
     font-size: 100px;
@@ -7,29 +9,32 @@ h1 {
     background-image: url('../images/pattern.jpg');
 }
 
-
+/* Style rules for the Brush content */
 #brushes {
     background-color: mediumspringgreen;
     color: white;
 }
 
+/* Style rules for the Frames content */
 #frames {
     background-color: lightcoral;
     color: white;
 }
 
+/* Style rules for the paint content */
 #paint {
     background-color: skyblue;
     color: white;
 }
 
-
+/* Sub header style rule */
 h2 {
     font-family: Helvectica;
     font-size: 32px;
     font-weight: bold;
 }
 
+/* Style for the  price */
 .price {
     font-family: Helvetica;
     font-weight: bold;
